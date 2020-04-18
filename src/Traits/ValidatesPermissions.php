@@ -20,3 +20,4 @@ trait ValidatesPermissions
         return !$requestedPermission->hasUsers();
     }
 }
+
